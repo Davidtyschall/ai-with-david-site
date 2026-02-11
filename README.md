@@ -1,2 +1,2 @@
 # ai-with-david-site
-AI WITH DAVID Consulting
+AI WITH DAVID Enterprise
